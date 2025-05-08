@@ -12,8 +12,6 @@ The notebook covers:
 - Analysis and summaries of key **results tables** from the original paper
 - A readable **conclusion and reference section**
 
-This project is intended as a learning resource for researchers, students, or engineers interested in **multimodal learning**, **audio understanding**, or **deep learning architectures** that span multiple input types.
-
 ## Reference
 
 The notebook is based on the original paper:
@@ -21,7 +19,3 @@ The notebook is based on the original paper:
 > Guzhov, A., Raue, F., Hees, J., Dengel, A.  
 > *AudioCLIP: Extending CLIP to Image, Text and Audio*  
 > arXiv:2106.13043v1 (2021)
-
-## License
-
-This repository is released under the MIT License. Refer to the LICENSE file for more details.
